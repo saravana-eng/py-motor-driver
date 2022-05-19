@@ -1,6 +1,6 @@
 import serial
 import struct
-
+c
 class cmd: 
         ADRESS = 120    #0 causes problem need to rectify it
         MOTORSPEED = 0
